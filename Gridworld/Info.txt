@@ -1,0 +1,2 @@
+Zur Ausführung des Codes werden die Dateien GridBoard und Gridworld benötigt. 
+Beide stammen aus dem Buch "Einstig in Deep Reinforcement Learning" von Zai Alexander und Brandon Brown
